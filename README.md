@@ -4,6 +4,9 @@
 - [Data Sources](#data-source)
 - [Tools](#tools)
 - [Data Cleaning and Preparation](#Data-Cleaning-and-Preparation)
+- [Questions for Data Analysis](#Questions-for-Data-Analysis)
+- [Results and Findings](#Results-and-Findings)
+- [Challenges in Analysis](#Challenges-in-Analysis)
 
 ### Project Overview
 This project focuses on analyzing movie data from 2012 to 2016 to uncover insights into performance and trends. By examining different elements of the data, we aim to detect patterns, offer recommendations based on the findings, and enhance our understanding of the industry's dynamics.
@@ -28,7 +31,7 @@ In the initial data preparation phase, we performed the following tasks:
 - Identify the top 5 movies by the budget and box office.
 - Which season(s) is (are) the most profitable?
 
-### Results and Finding/s
+### Results and Findings
 ##### All the findings are based on the time period of 2012-2017
 The Full Dashboard is here:
 
@@ -43,7 +46,7 @@ The Full Dashboard is here:
 
 - The Top Main Actor by Box Office Revenue was Jennifer Lawrence with the 2,204,300,000$ in Box Office Revenue.
 
-## Challenges in Analysis
+### Challenges in Analysis
 ### Connections between Pivot Charts
 One of challenges that I faced was to find the right way to connect all the pivot tables with the Release Date slicer.
 
