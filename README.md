@@ -48,8 +48,4 @@ The Full Dashboard is here:
 
 ### Challenges in Analysis
 ### Connections between Pivot Charts
-One of challenges that I faced was to find the right way to connect all the pivot tables with the Release Date slicer.
-
-```
-
-
+One of challenges that I faced was to find the right way to connect all the pivot tables with the Release Date Timelines.
