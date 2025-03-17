@@ -2,6 +2,8 @@
 ## Table of Content
 - [Project Overview](#project-overview)
 - [Data Sources](#data-source)
+- [Tools](#tools)
+- [Data Cleaning and Preparation](#Data-Cleaning-and-Preparation)
 
 ### Project Overview
 This project focuses on analyzing movie data from 2012 to 2016 to uncover insights into performance and trends. By examining different elements of the data, we aim to detect patterns, offer recommendations based on the findings, and enhance our understanding of the industry's dynamics.
@@ -43,9 +45,7 @@ The Full Dashboard is here:
 
 ## Challenges in Analysis
 ### Connections between Pivot Charts
-One of challenges that I faced was to find the right way to connect all the pivot tables with the Release Date slicer
-```
-....
+One of challenges that I faced was to find the right way to connect all the pivot tables with the Release Date slicer.
 
 ```
 
