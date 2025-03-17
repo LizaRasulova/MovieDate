@@ -47,5 +47,5 @@ The Full Dashboard is here:
 - The Top Main Actor by Box Office Revenue was Jennifer Lawrence with the 2,204,300,000$ in Box Office Revenue.
 
 ### Challenges in Analysis
-### Connections between Pivot Charts
+#### Connections between Pivot Charts
 One of challenges that I faced was to find the right way to connect all the pivot tables with the Release Date Timelines.
